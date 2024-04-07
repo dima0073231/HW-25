@@ -1,0 +1,29 @@
+.layel-2{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: relative;
+    top: 144px;
+    left:90px;
+    z-index: 2;
+
+}
+.layel-1{
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+    position: relative;
+    top: 80px;
+    left: 160px;
+    z-index: 4;
+}
+.layel-3{
+    width: 120px;
+    height: 120px;
+    background-color:green;
+    position: relative;
+    opacity: 50%;
+    top: 30px;
+    left: 230px;
+    z-index: 2;
+}
